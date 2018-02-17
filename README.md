@@ -1,3 +1,4 @@
-# testrepo
-- One
-- Two
+# testrepo <tdio.h>
+int main(){
+printf("Hi")
+}
